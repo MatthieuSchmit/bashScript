@@ -28,10 +28,6 @@ export HISTCONTROL=erasedups
 alias ll='ls -l'
 alias cl='clear'
 
-# Connexion aux servers ssh
-alias vps="ssh root@vps447830.ovh.net"
-alias vpsTim="ssh matth@vps240569.ovh.net" # isfce2015 
-
 #
 alias composer="php /usr/local/bin/composer.phar"
 alias tb="nc termbin.com 9999"
